@@ -8,7 +8,7 @@ WEEK = 7 * DAY
 EPS_TIME = 0.01 * SECOND
 
 chat_id = -1002446099140
-token = '8148169521:AAEk3_xADWteBvTwc3F26QpFXeLFVn_HMvE'
+token = ''
 
 kIvanovo2Moscow = {
     'title': '{} | Иваново -> Москва',
